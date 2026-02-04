@@ -1,6 +1,6 @@
 # 🎯️ SOLVE LINEAR SYSTEM
 
-## Linear system solver (Ax = b)
+## 📃 Linear system solver (Ax = b)
 
 A python-based library for solving system of equation linear using matrix decomposition techniques. This projects focuses on numerical stability and efficiency by implemting core algorithms from scratch. 
 
@@ -25,8 +25,8 @@ SolveLinearSystem-/
 │   ├── lu.py
 │   └── qr.py
 ├── docs
-│   ├── resolutiuon_systeme_lineaire.pdf
-│   └── resolutiuon_systeme_lineaire.tex
+│   ├── resolution_system_lineair.pdf
+│   └── resolution_system_linear.tex
 ├── main.py
 ├── README.md
 ├── requirement.txt
