@@ -26,7 +26,7 @@ SolveLinearSystem-/
 │   ├── lu.py
 │   └── qr.py
 ├── docs
-│   ├── resolution_system_lineair.pdf
+│   ├── resolution_system_linear.pdf
 │   └── resolution_system_linear.tex
 ├── main.py
 ├── README.md
